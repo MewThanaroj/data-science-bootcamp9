@@ -1,7 +1,7 @@
 # this is R programming
 print('hello world')
 
-print("This is a second line")
+print("this is a second line")
 
 library(dplyr)
 
