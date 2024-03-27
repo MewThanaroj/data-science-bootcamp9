@@ -6,7 +6,7 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 
 - Intro to Data Science
 - Spreadsheets
-- SQl Databases
+- SQL Databases
 - R Programming
 - Data Transformation
 - Data Visualization
